@@ -30,4 +30,4 @@ For the individual character pages, I was hoping to pass the ID of the character
 
 Pagination + Sorting + Filtering was next on my agenda but due to the boundaries of time I decided to forego this feature. React Table has a nice library that would have been a clean way to simply implement these features.
 
-Thanks, Obi`
+`Thanks, Obi`
